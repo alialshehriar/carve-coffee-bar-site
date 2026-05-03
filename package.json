@@ -1,0 +1,14 @@
+{
+  "name": "new-project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --check src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

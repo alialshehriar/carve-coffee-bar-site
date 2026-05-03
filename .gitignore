@@ -1,0 +1,11 @@
+snapshots/
+vendor/
+src/data/
+src/map/
+src/three/
+src/utils/
+assets/kafd-digital-twin.png
+assets/*.png
+!assets/*.jpg
+!assets/*.webp
+.DS_Store
